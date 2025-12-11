@@ -18,12 +18,3 @@ A robust, enterprise-ready authentication system built with **Node.js**, **Expre
 * **Database:** MongoDB & Mongoose
 * **Auth:** JWT (JSON Web Tokens) & Bcrypt
 * **Tools:** Postman (for testing), Dotenv (environment management)
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/sam-y633/auth-with-express.git](https://github.com/sam-y633/auth-with-express.git)
-cd auth-with-express
