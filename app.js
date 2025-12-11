@@ -7,7 +7,7 @@ const cors = require('express');
 
 databaseconnect();
 
-app.use(express.json()); // parsing
+app.use(express.json()); // parsing 
 app.use(cookieParser());
 
 app.use(cors({
